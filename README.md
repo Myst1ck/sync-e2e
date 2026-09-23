@@ -1,1 +1,1 @@
-sync e2e
+y
